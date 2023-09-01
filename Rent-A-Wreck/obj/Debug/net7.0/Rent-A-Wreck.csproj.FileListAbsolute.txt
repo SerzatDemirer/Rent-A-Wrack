@@ -1,0 +1,15 @@
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.csproj.AssemblyReference.cache
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.AssemblyInfoInputs.cache
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.AssemblyInfo.cs
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/bin/Debug/net7.0/Rent-A-Wreck
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/bin/Debug/net7.0/Rent-A-Wreck.deps.json
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/bin/Debug/net7.0/Rent-A-Wreck.runtimeconfig.json
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/bin/Debug/net7.0/Rent-A-Wreck.dll
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/bin/Debug/net7.0/Rent-A-Wreck.pdb
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.dll
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/refint/Rent-A-Wreck.dll
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.pdb
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/Rent-A-Wreck.genruntimeconfig.cache
+/Users/mac/Projects/Rent-A-Wreck/Rent-A-Wreck/obj/Debug/net7.0/ref/Rent-A-Wreck.dll
