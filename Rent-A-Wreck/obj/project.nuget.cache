@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zOgTRtpNgX4k+U9Wnp2mfw87MULSx624N1v3TFw0HmYQk8SRWmAVyVoj/inmZMm5NmdCBwR0gBesgYpKUtWtzg==",
+  "dgSpecHash": "997guVvAK84IVi5vzWKY7VcxqgTki+ljzdUM7Di3jYCXgrEJmkm+JiPxVwGTonXQTle9ooYouXsYIGzHPy6STw==",
   "success": true,
   "projectFilePath": "/Users/mac/Desktop/WORKSPACE-EC/6-Backend-1/Projects/Rent-A-Wreck/Rent-A-Wreck/Rent-A-Wreck.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{ECDD07B1-3F05-45D7-B7CE-1D40DA567855}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Rent-A-Wreck/Program.cs">
     <Files>
-      <File FileName="Rent-A-Wreck/Program.cs" Line="23" Column="2" />
+      <File FileName="Rent-A-Wreck/Program.cs" Line="80" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Rent-A-Wreck" expanded="True">
-            <Node name="Rent-A-Wreck" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="Rent-A-Wreck">
+            <Node name="Rent-A-Wreck" expanded="True" />
           </Node>
         </State>
       </Pad>
